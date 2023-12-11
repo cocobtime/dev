@@ -1,0 +1,16 @@
+
+
+PK8F6AWWC05HYF10JQJO
+
+
+Secret
+
+8vfxI2x34kg9fBU7NavDnqtck6rk3pKIyiBnkhqr
+
+
+
+
+
+API_KEY = 'PK8F6AWWC05HYF10JQJO'
+API_SECRET = '8vfxI2x34kg9fBU7NavDnqtck6rk3pKIyiBnkhqr'
+BASE_URL = 'https://paper-api.alpaca.markets'  # Use the paper trading URL
